@@ -1,0 +1,33 @@
+/* GENERAL */
+
+p {
+    font-size: 15px;
+}
+
+body {
+    background-color: #eee;
+}
+
+
+/* NAVBAR */
+
+.navbar-light .navbar-brand {
+    color: #f90f7a;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+
+/* TOAST */
+
+.toast {
+    max-width: 100% !important;
+    margin-top: 1% !important;
+}
+
+.avatar {
+    height: 25px;
+    width: 25px;
+}

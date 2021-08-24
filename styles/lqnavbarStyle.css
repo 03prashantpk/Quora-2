@@ -1,0 +1,36 @@
+/* NAVBAR */
+
+.navbar-light .navbar-brand {
+    color: #F52936;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link :hover {
+    color: #fff;
+}
+
+.nav-item {
+    padding: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+#navbarColor03 {
+    background-color: #262626;
+}
+
+nav {
+    background-color: #262626;
+}
+
+.nav-link {
+    color: #fff;
+}

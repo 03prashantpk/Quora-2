@@ -1,0 +1,64 @@
+/* GENERAL */
+
+p {
+    font-size: 15px;
+}
+
+body {
+    background-color: #eee;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+}
+
+
+/* NAVBAR */
+
+.navbar-light .navbar-brand {
+    color: #f90f7a;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+
+/* TOAST */
+
+.toast {
+    max-width: 100% !important;
+}
+
+.modifyDiv {
+    display: flex;
+}
+
+.modifyButton {
+    margin-left: 5px;
+}
+
+.avatar {
+    height: 25px;
+    width: 25px;
+}
+
+.avatar2 {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-primary {
+    background-color: #f90f7a !important;
+    color: #fff !important;
+}
+
+.btn-outline-primary {
+    background-color: #737176 !important;
+    color: #fff !important;
+}

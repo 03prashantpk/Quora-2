@@ -1,0 +1,38 @@
+/* GENERAL */
+
+body {
+  background-color: #eee;
+}
+
+p {
+  font-size: 15px;
+}
+
+h3 {
+  margin-top: 1% !important;
+}
+
+p,
+h3,
+form {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.form-check-input {
+  margin-right: 40%;
+}
+
+.btn {
+  background-color: #f90f7a !important;
+}
+
+/* NAVBAR */
+
+.navbar-light .navbar-brand {
+  color: #f90f7a;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
