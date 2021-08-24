@@ -7,10 +7,10 @@ Question and Answer Platform - Designed & Developed using HTML, CSS, JS, PHP and
 ## Screenshots
 
 * Img 1
-<img src="https://github.com/03prashantpk/Quora/blob/main/Quora1.JPG" width="500" /> 
+<img src="https://github.com/03prashantpk/Quora-2/blob/main/Quora1.JPG" width="500" /> 
 
 * Img 2
-<img src="https://github.com/03prashantpk/Quora/blob/main/Quora2.JPG" width="500" />
+<img src="https://github.com/03prashantpk/Quora-2/blob/main/Quora2.JPG" width="500" />
 
 
 ## Getting Started
