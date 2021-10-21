@@ -18,7 +18,7 @@ Question and Answer Platform - Designed & Developed using HTML, CSS, JS, PHP and
 ### Dependencies
 
 * Download and setup Localhost server using xampp or any other.
-* For Database use Mysql and dump flevAR.sql.
+* For Database use Mysql and dump quora.sql.
 * Contact admin@enally.in or [Email](https://tinyurl.com/mailPK) for sql dump file.
 * If you wan't to work on this project reach me on LinkedIn given below or [Email](https://tinyurl.com/mailPK) me your idea how are you going to improve it.
 
