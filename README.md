@@ -2,7 +2,7 @@
 
 Question and Answer Platform - Designed & Developed using HTML, CSS, JS, PHP and MySql.
 
-*NOTE: Cloning this project only won't work for you because I've not uploaded the Sql dump. For that you need to contact me. Thank You, keep reading :)*
+*NOTE: Cloning this project only, Won't works for you because I've not uploaded the Sql dump. For that you need to contact me. Thank You, keep reading :)*
 
 ## Screenshots
 
